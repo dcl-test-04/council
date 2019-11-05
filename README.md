@@ -1,2 +1,1 @@
-# council
-Council's repo
+# Council's repo
